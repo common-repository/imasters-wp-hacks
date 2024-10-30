@@ -1,0 +1,488 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: iMasters WP Hacks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-09-24 10:58-0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: w3invent <daniel.w3invent@gmail.com>\n"
+"Language-Team: Apiki <leandro@apiki.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ../..\n"
+
+#: ../../imasters-wp-hacks-index.php:3
+#: ../../imasters-wp-hacks.php:155
+msgid "iMasters WP Hacks"
+msgstr "iMasters WP Hacks"
+
+#: ../../imasters-wp-hacks-index.php:4
+msgid "This plugin is used to controll WordPress admin interface. You can hide administration widgets or hide menu itens."
+msgstr "Este plugin controla a interface administrativa do WordPress. Você pode ocultar os widgets da administração ou itens do menu."
+
+#: ../../imasters-wp-hacks-index.php:5
+msgid "The administration widgets and menu itens aren't disable to administrator's account"
+msgstr "Os widgets e itens de menu não são desativados (ocultos) para usuários com função de Administrador."
+
+#: ../../imasters-wp-hacks-navigation.php:5
+#: ../../imasters-wp-hacks-navigation.php:216
+msgid "Hide menu navigation"
+msgstr "Ocultar o menu de Navegação"
+
+#: ../../imasters-wp-hacks-navigation.php:34
+msgid "Level definition updated successfully"
+msgstr "Definição de nível de usuário atualizado com sucesso"
+
+#: ../../imasters-wp-hacks-navigation.php:45
+msgid "iMasters Hacks Navigation"
+msgstr "Navegação do iMasters WP Hacks"
+
+#: ../../imasters-wp-hacks-navigation.php:47
+msgid "Dashboard"
+msgstr "Painel"
+
+#: ../../imasters-wp-hacks-navigation.php:52
+#: ../../imasters-wp-hacks-navigation.php:81
+#: ../../imasters-wp-hacks-navigation.php:100
+#: ../../imasters-wp-hacks-navigation.php:120
+#: ../../imasters-wp-hacks-navigation.php:140
+#: ../../imasters-wp-hacks-navigation.php:160
+#: ../../imasters-wp-hacks-navigation.php:180
+#: ../../imasters-wp-hacks-navigation.php:200
+msgid "Minimum level to access this page"
+msgstr "Função mínima para acessar esta página"
+
+#: ../../imasters-wp-hacks-navigation.php:56
+#: ../../imasters-wp-hacks-navigation.php:85
+#: ../../imasters-wp-hacks-navigation.php:104
+#: ../../imasters-wp-hacks-navigation.php:124
+#: ../../imasters-wp-hacks-navigation.php:144
+#: ../../imasters-wp-hacks-navigation.php:164
+#: ../../imasters-wp-hacks-navigation.php:184
+#: ../../imasters-wp-hacks-navigation.php:204
+msgid "Select one"
+msgstr "Selecione uma:"
+
+#: ../../imasters-wp-hacks-navigation.php:57
+#: ../../imasters-wp-hacks-navigation.php:105
+#: ../../imasters-wp-hacks-navigation.php:125
+#: ../../imasters-wp-hacks-navigation.php:145
+#: ../../imasters-wp-hacks-navigation.php:165
+#: ../../imasters-wp-hacks-navigation.php:185
+#: ../../imasters-wp-hacks-navigation.php:205
+msgid "Role administrator (Level 10)"
+msgstr "Função administrador (Nível 10)"
+
+#: ../../imasters-wp-hacks-navigation.php:58
+#: ../../imasters-wp-hacks-navigation.php:86
+#: ../../imasters-wp-hacks-navigation.php:106
+#: ../../imasters-wp-hacks-navigation.php:126
+#: ../../imasters-wp-hacks-navigation.php:146
+#: ../../imasters-wp-hacks-navigation.php:166
+#: ../../imasters-wp-hacks-navigation.php:186
+#: ../../imasters-wp-hacks-navigation.php:206
+msgid "Role editor (Level 7)"
+msgstr "Função editor (Nível 7)"
+
+#: ../../imasters-wp-hacks-navigation.php:59
+#: ../../imasters-wp-hacks-navigation.php:87
+#: ../../imasters-wp-hacks-navigation.php:107
+#: ../../imasters-wp-hacks-navigation.php:127
+#: ../../imasters-wp-hacks-navigation.php:147
+#: ../../imasters-wp-hacks-navigation.php:167
+#: ../../imasters-wp-hacks-navigation.php:187
+#: ../../imasters-wp-hacks-navigation.php:207
+msgid "Role author (Level 2)"
+msgstr "Função autor (Nível 2)"
+
+#: ../../imasters-wp-hacks-navigation.php:60
+#: ../../imasters-wp-hacks-navigation.php:88
+#: ../../imasters-wp-hacks-navigation.php:108
+#: ../../imasters-wp-hacks-navigation.php:128
+#: ../../imasters-wp-hacks-navigation.php:148
+#: ../../imasters-wp-hacks-navigation.php:168
+#: ../../imasters-wp-hacks-navigation.php:188
+#: ../../imasters-wp-hacks-navigation.php:208
+msgid "Role contributor (Level 1)"
+msgstr "Função contribuidor (Nível 1)"
+
+#: ../../imasters-wp-hacks-navigation.php:61
+#: ../../imasters-wp-hacks-navigation.php:89
+#: ../../imasters-wp-hacks-navigation.php:109
+#: ../../imasters-wp-hacks-navigation.php:129
+#: ../../imasters-wp-hacks-navigation.php:149
+#: ../../imasters-wp-hacks-navigation.php:169
+#: ../../imasters-wp-hacks-navigation.php:189
+#: ../../imasters-wp-hacks-navigation.php:209
+msgid "Role subscriber (Level 0)"
+msgstr "Função assinante (Nível 0)"
+
+#: ../../imasters-wp-hacks-navigation.php:67
+msgid "Redir page"
+msgstr "Página de redirecionamento"
+
+#: ../../imasters-wp-hacks-navigation.php:76
+msgid "Posts"
+msgstr "Posts"
+
+#: ../../imasters-wp-hacks-navigation.php:95
+msgid "Media"
+msgstr "Mídia"
+
+#: ../../imasters-wp-hacks-navigation.php:115
+msgid "Links"
+msgstr "Links"
+
+#: ../../imasters-wp-hacks-navigation.php:135
+msgid "Pages"
+msgstr "Páginas"
+
+#: ../../imasters-wp-hacks-navigation.php:155
+#: ../../imasters-wp-hacks-widgets.php:152
+msgid "Comments"
+msgstr "Comentários"
+
+#: ../../imasters-wp-hacks-navigation.php:175
+msgid "Profile"
+msgstr "Perfil"
+
+#: ../../imasters-wp-hacks-navigation.php:195
+msgid "Tools"
+msgstr "Ferramentas"
+
+#: ../../imasters-wp-hacks-uninstall.php:16
+#: ../../imasters-wp-hacks-uninstall.php:20
+#: ../../imasters-wp-hacks-uninstall.php:55
+#: ../../imasters-wp-hacks-uninstall.php:90
+msgid "Uninstall iMasters WP Hacks"
+msgstr "Desinstalação do iMasters WP Hacks"
+
+#: ../../imasters-wp-hacks-uninstall.php:22
+msgid "Options"
+msgstr "Options"
+
+#: ../../imasters-wp-hacks-uninstall.php:27
+#, php-format
+msgid "<li>Option '%s' has been deleted.</li>"
+msgstr "<li>Option '%s' deletada com sucesso.</li>"
+
+#: ../../imasters-wp-hacks-uninstall.php:30
+#, php-format
+msgid "<li>Error deleting Option '%s'.</li>"
+msgstr "<li>Erro ao deletar a option '%s'.</li>"
+
+#: ../../imasters-wp-hacks-uninstall.php:47
+#, php-format
+msgid "<a href=\"%s\" class=\"button-primary\">Deactivate iMasters WP Hacks</a> Disable that plugin to conclude the uninstalling."
+msgstr "<a href=\"%s\" class=\"button-primary\">Desativar iMasters WP Hacks</a> Desative esse plugin para concluir a desinstalação."
+
+#: ../../imasters-wp-hacks-uninstall.php:56
+msgid "Uninstaling this plugin the options used by iMasters WP Hacks will be removed."
+msgstr "Desinstalando esse plugin as options usadas por iMasters WP Hacks serão removidas."
+
+#: ../../imasters-wp-hacks-uninstall.php:58
+msgid "Warning:"
+msgstr "Atenção:"
+
+#: ../../imasters-wp-hacks-uninstall.php:59
+msgid "This process is irreversible. We suggest that you do a database backup first."
+msgstr "Esse processo é irreversível. Sugerimos que faça um backup primeiro."
+
+#: ../../imasters-wp-hacks-uninstall.php:64
+msgid "The following WordPress Options will be deleted:"
+msgstr "As seguintes options do Wordpress serão deletadas:"
+
+#: ../../imasters-wp-hacks-uninstall.php:71
+msgid "WordPress Options"
+msgstr "Options do WordPress"
+
+#: ../../imasters-wp-hacks-uninstall.php:87
+msgid "Yes. Uninstall iMasters WP Hacks now"
+msgstr "Sim. Desinstalar iMasters WP Hacks agora"
+
+#: ../../imasters-wp-hacks-widgets.php:7
+#: ../../imasters-wp-hacks-widgets.php:97
+msgid "Hide Dashboard widgets"
+msgstr "Ocultar widgets do Painel"
+
+#: ../../imasters-wp-hacks-widgets.php:9
+msgid "Dashboard Widgets hidden successfully"
+msgstr "Widgets do Painel ocultados com sucesso"
+
+#: ../../imasters-wp-hacks-widgets.php:11
+#: ../../imasters-wp-hacks-widgets.php:169
+msgid "Hide Post widgets"
+msgstr "Ocultar widgets de Post"
+
+#: ../../imasters-wp-hacks-widgets.php:13
+msgid "Post Widgets hidden successfully"
+msgstr "Widgets de Post ocultados com sucesso"
+
+#: ../../imasters-wp-hacks-widgets.php:15
+#: ../../imasters-wp-hacks-widgets.php:217
+msgid "Hide Page widgets"
+msgstr "Ocultar widgets de Página"
+
+#: ../../imasters-wp-hacks-widgets.php:17
+msgid "Page Widgets hidden successfully"
+msgstr "Widgets de Página ocultados com sucesso"
+
+#: ../../imasters-wp-hacks-widgets.php:19
+#: ../../imasters-wp-hacks-widgets.php:259
+msgid "Hide Link widgets"
+msgstr "Ocultar widgets de Links"
+
+#: ../../imasters-wp-hacks-widgets.php:21
+msgid "Links Widgets hidden successfully"
+msgstr "Widgets de Links ocultados com sucesso"
+
+#: ../../imasters-wp-hacks-widgets.php:33
+msgid "iMasters Hacks Widgets"
+msgstr "Widgets do iMasters WP Hacks"
+
+#: ../../imasters-wp-hacks-widgets.php:35
+msgid "Dashboard widgets"
+msgstr "Painel Widgets"
+
+#: ../../imasters-wp-hacks-widgets.php:50
+msgid "Right now"
+msgstr "Nesse Momento"
+
+#: ../../imasters-wp-hacks-widgets.php:56
+msgid "QuickPress"
+msgstr "QuickPress"
+
+#: ../../imasters-wp-hacks-widgets.php:62
+msgid "Recent comments"
+msgstr "Comentários Recentes"
+
+#: ../../imasters-wp-hacks-widgets.php:68
+msgid "Recent drafts"
+msgstr "Rascunhos recentes"
+
+#: ../../imasters-wp-hacks-widgets.php:74
+msgid "Incoming links"
+msgstr "Links de Entrada"
+
+#: ../../imasters-wp-hacks-widgets.php:80
+msgid "WordPress Development blog"
+msgstr "Desenvolvimento do blog WordPress"
+
+#: ../../imasters-wp-hacks-widgets.php:86
+msgid "Other WordPress News"
+msgstr "Outras Novidades do WordPress"
+
+#: ../../imasters-wp-hacks-widgets.php:92
+msgid "Plugins"
+msgstr "Plugins"
+
+#: ../../imasters-wp-hacks-widgets.php:116
+msgid "Post tags"
+msgstr "Tags do post"
+
+#: ../../imasters-wp-hacks-widgets.php:122
+msgid "Post categories"
+msgstr "Categorias do post"
+
+#: ../../imasters-wp-hacks-widgets.php:128
+msgid "Post excerpt"
+msgstr "Resumo do post"
+
+#: ../../imasters-wp-hacks-widgets.php:134
+msgid "Post Send Trackbacks"
+msgstr "Enviados Post Trackbacks"
+
+#: ../../imasters-wp-hacks-widgets.php:140
+msgid "Post Custom Fields"
+msgstr "Campo de post avançado"
+
+#: ../../imasters-wp-hacks-widgets.php:146
+msgid "Post Discussion"
+msgstr "Discussão do post"
+
+#: ../../imasters-wp-hacks-widgets.php:158
+msgid "Post Author"
+msgstr "Autor do post"
+
+#: ../../imasters-wp-hacks-widgets.php:164
+msgid "Post Revisions"
+msgstr "Revisão do post"
+
+#: ../../imasters-wp-hacks-widgets.php:188
+msgid "Page Custom Fields"
+msgstr "Campo de Página avançada"
+
+#: ../../imasters-wp-hacks-widgets.php:194
+msgid "Page Discussion"
+msgstr "Página de discussão"
+
+#: ../../imasters-wp-hacks-widgets.php:200
+msgid "Page Attributes"
+msgstr "Página de atributos"
+
+#: ../../imasters-wp-hacks-widgets.php:206
+msgid "Page Author"
+msgstr "Autor da Página"
+
+#: ../../imasters-wp-hacks-widgets.php:212
+msgid "Page Revisions"
+msgstr "Revisões da Página"
+
+#: ../../imasters-wp-hacks-widgets.php:236
+msgid "Link Categories"
+msgstr "Categorias de Link"
+
+#: ../../imasters-wp-hacks-widgets.php:242
+msgid "link Target"
+msgstr "Direção do link"
+
+#: ../../imasters-wp-hacks-widgets.php:248
+msgid "Link Relationship (XFN)"
+msgstr "Relacionamento do Link (XFN)"
+
+#: ../../imasters-wp-hacks-widgets.php:254
+msgid "Link Advanced"
+msgstr "Link avançado"
+
+#: ../../imasters-wp-hacks.php:158
+msgid "Widgets"
+msgstr "Widgets"
+
+#: ../../imasters-wp-hacks.php:159
+msgid "Navigation"
+msgstr "Navegação"
+
+#: ../../imasters-wp-hacks.php:160
+msgid "Uninstall"
+msgstr "Desinstalação"
+
+#: ../../imasters-wp-hacks.php:303
+msgid "You do not have sufficient permissions to manage this page."
+msgstr "Você não tem permissão suficiente para acessar essa página."
+
+#: ../../imasters-wp-hacks.php:395
+msgid "<strong> You need to inform the page to redirect users when he can not access the dashboard.</strong>"
+msgstr "<strong>Você precisa informar a página de redirecionamento para o usuário que não tem acesso.</strong>"
+
+#~ msgid "Level 10 (Administrator)"
+#~ msgstr "Nível 10 (Administrador)"
+#~ msgid "Level 7 (Editor)"
+#~ msgstr "Nível 7 (Editor)"
+#~ msgid "Level 2 (Author)"
+#~ msgstr "Nível 2 (Autor)"
+#~ msgid "Level 1 (Contributor)"
+#~ msgstr "Nível 1 (Contribuidor)"
+#~ msgid "Level 0 (Subscriber)"
+#~ msgstr "Nível 0 (Assinante)"
+#~ msgid "testering"
+#~ msgstr "testando!"
+#~ msgid "Hack Dashboard widgets"
+#~ msgstr "Esconder Painel widgets"
+#~ msgid "Select the menu item to hide it from certain users role."
+#~ msgstr "Selecione o item do menu para esconder se for o usuário capacitado."
+#~ msgid "Page to redirect users when he can´t access the dashboard."
+#~ msgstr "Página de redirecionamento caso o usuário não seja habilitado."
+#~ msgid "UNINSTALL iMasters WP Hacks"
+#~ msgstr "DESINSTALAR iMasters WP Hacks"
+#~ msgid ""
+#~ "<a href=\"%s\">Click Here</a> To Finish The Uninstallation And iMasters "
+#~ "WP Hacks Will Be Deactivated Automatically."
+#~ msgstr ""
+#~ "<a href=\"%s\">Clique aqui</a> Para finalizar a desinstalação e desativar "
+#~ "automaticamente o iMasters WP Hacks."
+#~ msgid ""
+#~ "Deactivating iMasters WP Hacks plugin does not remove any data that may "
+#~ "have been created. To completely remove this plugin, you can uninstall it "
+#~ "here."
+#~ msgstr ""
+#~ "Desativando o plugin iMasters Hacks não serão removidos os dados "
+#~ "inseridos no banco de dados. Somente esta página remove completamente o "
+#~ "plugin."
+#~ msgid "NOTE:"
+#~ msgstr "NOTA:"
+#~ msgid "The logs by iMasters WP Hacks <strong> WILL </strong> be deleted."
+#~ msgstr "As Options do  iMasters WP Hacks <strong> SERÃO </strong> deletadas"
+#~ msgid "WARNING:"
+#~ msgstr "AVISO:"
+#~ msgid "Once uninstalled, this cannot be undone."
+#~ msgstr "Uma vez desinstalado, não poderá ser desfeito."
+#~ msgid "Yes"
+#~ msgstr "Sim"
+#~ msgid ""
+#~ "You Are About To UNINSTALL iMasters WP Hacks From WordPress.\\nThis "
+#~ "Action Is Not Reversible.\\n\\n Choose [Cancel] To Stop, [OK] To "
+#~ "Uninstall."
+#~ msgstr ""
+#~ "Você está pronto para desinstalar o iMasters WP Hacks WordPress.\\nEssa "
+#~ "ação não terá como desfazer.\\n\\n Escolha [Cancel] para Cancelar, [OK] "
+#~ "para Desinstalar."
+#~ msgid "General Settings"
+#~ msgstr "Configurações Gerais"
+#~ msgid "Youtube Configuration"
+#~ msgstr "Configuração do Youtube"
+#~ msgid "Video Width"
+#~ msgstr "Largura do Vídeo"
+#~ msgid "Determine the width value from video"
+#~ msgstr "Deternime a largura do vídeo"
+#~ msgid "Video Height"
+#~ msgstr "Altura do Vídeo"
+#~ msgid "Save"
+#~ msgstr "Salvar"
+#~ msgid "Determine the height value from video"
+#~ msgstr "Determine a Altura do vídeo"
+#~ msgid "Videolog Configuration"
+#~ msgstr "Configuração do Videolog"
+#~ msgid "SlideShare Configuration"
+#~ msgstr "Cofiguração Slideshare"
+#~ msgid "Slide Width"
+#~ msgstr "Largura do Slide"
+#~ msgid "Determine the width value from slide"
+#~ msgstr "Determine a largura do slide"
+#~ msgid "Slide Height"
+#~ msgstr "Altura do Slide"
+#~ msgid "Determine the height value from slide"
+#~ msgstr "Determine a Altura do slide"
+#~ msgid "Vimeo Configuration"
+#~ msgstr "Configuração do Vimeo"
+#~ msgid "Help"
+#~ msgstr "Ajuda"
+#~ msgid "Explanation of usage"
+#~ msgstr "Explicação de uso"
+#~ msgid "Youtube Collage"
+#~ msgstr "Colagem do Youtube"
+#~ msgid "Just copy the alphanumeric code(in red) from"
+#~ msgstr "Copie apenas o código alfanumérico (em vermelho) de"
+#~ msgid "and you are done"
+#~ msgstr "e pronto!"
+#~ msgid "Use the shortcode like that: "
+#~ msgstr "Use o shortcode assim:"
+#~ msgid "Videolog Collage"
+#~ msgstr "Colagem Videog"
+#~ msgid "Just copy the numeric code(in red) from"
+#~ msgstr "Apenas copie o código numérico (em vermelho) de"
+#~ msgid "SlideShare Collage"
+#~ msgstr "Colagem SlideShare"
+#~ msgid "Just copy and paste the \"Embed (wordpress.com)\" code from"
+#~ msgstr "Apenas copie e cole o código \"Embed (wordpress)\" de"
+#~ msgid "Vimeo Collage"
+#~ msgstr "Colagem Vimeo"
+#~ msgid "UNINSTALL iMasters WP Social Embed"
+#~ msgstr "DESINSTALAR iMasters WP Social Embed"
+#~ msgid "Uninstall iMasters WP Social Embed"
+#~ msgstr "Desinstalação do iMasters WP Social Embed"
+#~ msgid ""
+#~ "Once uninstalled, this cannot be undone. You should use a Database Backup "
+#~ "plugin of WordPress to back up all the data first."
+#~ msgstr ""
+#~ "Depois de desinstalado não poderá ser desfeito. Você deve fazer backup de "
+#~ "sua Base de dados primeiro."
+#~ msgid "Settings"
+#~ msgstr "Configurações"
+#~ msgid "General Help"
+#~ msgstr "Ajuda Geral"
+
